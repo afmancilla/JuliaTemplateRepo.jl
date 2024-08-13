@@ -2,7 +2,7 @@
 [![codecov](https://codecov.io/gh/bjack205/JuliaTemplateRepo.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/bjack205/JuliaTemplateRepo.jl)
 [![](https://img.shields.io/badge/docs-dev-blue.svg)](https://bjack205.github.io/JuliaTemplateRepo.jl/dev)
 
-# Julia Template Repo 
+# Julia Template Repo ddd
 This repository is meant as a walk-through for setting up a new Julia package, complete with a test suite, CI, code coverage, and documentation.
 
 See the documentation for an for example and walk-throughs on the following topics:
